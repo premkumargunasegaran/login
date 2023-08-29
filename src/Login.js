@@ -77,11 +77,13 @@ function Login() {
           <div className="text-start">
             <button
               type="submit"
-              className="btn btn-primary"
-              onClick={handlesubmit}
+              className="btn btn-primary me-2"
+              onClick={handlesubmit} 
             >
-              Submit
+              Login
             </button>
+            <Link to="/register">Register</Link>
+
           </div>
         </form>
       </div>
