@@ -1,75 +1,28 @@
 {
   "user": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
       "name": "prem",
-      "password": "prem",
+      "password": "123456",
       "fullname": "premkumar",
       "email": "premkumar@oceansoftwares.in",
-      "phone": "09009999888",
-      "country": "India",
-      "address": "LOREMLOREMLOREMLOREMLOREMLOREMLOREM",
+      "phone": "7788778899",
+      "country": "india",
+      "address": "asdghjhgds",
       "selectedGender": "male",
-      "id": 2
+      "id": 1
     },
+    
     {
-      "name": "prem",
-      "password": "prem",
-      "fullname": "premkumar",
-      "email": "premkumar@oceansoftwares.in",
-      "phone": "09009999888",
-      "country": "India",
-      "address": "LOREMLOREMLOREMLOREMLOREMLOREMLOREM",
+      "name": "karthik",
+      "password": "karthik",
+      "fullname": "karthik",
+      "email": "karthik@gmail.com",
+      "phone": "2345678900",
+      "country": "india",
+      "address": "asdghjkl;lkijhgdsa",
       "selectedGender": "male",
       "id": 3
-    },
-    {
-      "name": "09009999888",
-      "password": "prem@123PREM@123",
-      "fullname": "pk",
-      "email": "premkumar@oceansoftwares.in",
-      "phone": "09009999888",
-      "country": "India",
-      "address": "LOREMLOREMLOREMLOREMLOREMLOREMLOREM",
-      "selectedGender": "male",
-      "id": 4
-    },
-    {
-      "name": "premkumar",
-      "password": "prem@123PREM@123",
-      "fullname": "premkumar",
-      "email": "premkumar@oceansoftwares.in",
-      "phone": "09009999888",
-      "country": "India",
-      "address": "LOREMLOREMLOREMLOREMLOREMLOREMLOREM",
-      "selectedGender": "male",
-      "id": 5
-    },
-    {
-      "name": "7373348389",
-      "password": "prem@123PREM@123",
-      "fullname": "premkumar",
-      "email": "premkumar@oceansoftwares.in",
-      "phone": "09009999888",
-      "country": "India",
-      "address": "LOREMLOREMLOREMLOREMLOREMLOREMLOREM",
-      "selectedGender": "male",
-      "id": 6
-    },
-    {
-      "name": "prem",
-      "password": "prem@123PREM@123",
-      "fullname": "premkumar",
-      "email": "premkumar@oceansoftwares.in",
-      "phone": "09009999888",
-      "country": "India",
-      "address": "LOREMLOREMLOREMLOREMLOREMLOREMLOREM",
-      "selectedGender": "male",
-      "id": 7
     }
+   
   ]
 }
